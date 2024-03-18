@@ -12,7 +12,7 @@ Your method should return the location of the best place to drop the robot.
 
 Boolean matrix(all random, trues represented by 1s)
 ```
-0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1
 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0
